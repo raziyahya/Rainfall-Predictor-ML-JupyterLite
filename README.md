@@ -11,4 +11,4 @@ Our goal is to use the capabilities of machine learning and employ five diverse 
 4. Logistic Regression
 5. Support Vector Machine (SVM)
 
-Our aim is to identify the most accurate and dependable model for predicting rain. Along the way, evaluating the models using a range of performance metrics that make sense of their predictions, including Accuracy Score, Jaccard Index, F1-Score, Log Loss, Mean Absolute Error, Mean Squared Error, and R2-Score. 
+The aim is to identify the most accurate and dependable model for predicting rain. Along the way, evaluating the models using a range of performance metrics that make sense of their predictions, including Accuracy Score, Jaccard Index, F1-Score, Log Loss, Mean Absolute Error, Mean Squared Error, and R2-Score. 
